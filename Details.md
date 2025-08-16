@@ -44,3 +44,17 @@ Ayush Gupta :-
 Frontend (Html , css)
 
 Backend ( js , python , XAMP )
+
+•	Preliminary UI/UX (if available) :-
+
+
+    Section            	Purpose
+Header	                  Branding + user context (“Recommended for You”)
+
+Filter Bar	              Optional filters (category, price range, relevance type)
+
+Recommendation Grid	      Displays hybrid recommendations (collaborative + content-based)
+
+Product Cards	            Each card shows image, title, reason for recommendation, CTA button
+
+Footer	                  Navigation links or additional suggestions
