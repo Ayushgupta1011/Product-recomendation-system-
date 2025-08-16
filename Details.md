@@ -36,6 +36,21 @@ Product-recommendation-system-/
 ├── requirements.txt
 └── .gitignore
 
+•	Approach and planning :- 
+
+Product-recommendation-system-/
+├── frontend/
+│   ├── index.html
+│   ├── style.css
+│   └── assets/
+├── backend/
+│   ├── app.py  # Flask or FastAPI
+│   ├── recommender.py
+│   └── data/
+├── README.md
+├── requirements.txt
+└── .gitignore
+
 
 •	Individual contributions :- 
 
@@ -58,3 +73,29 @@ Recommendation Grid	      Displays hybrid recommendations (collaborative + conte
 Product Cards	            Each card shows image, title, reason for recommendation, CTA button
 
 Footer	                  Navigation links or additional suggestions
+
+            Struc
+
+            +--------------------------------------------------------+
+| Amazon Hybrid Recommendations                          |
+| Based on your browsing and purchase history            |
++--------------------------------------------------------+
+
+[🔍 Category ▼] [💰 Price Range ▼] [⚙️ Relevance Type ▼]
+
+----------------------------------------------------------
+| 📦 Product Image | Wireless Headphones                 |
+|                 | Based on your interest in audio gear |
+|                 | [View on Amazon]                     |
+----------------------------------------------------------
+| 📦 Product Image | Smartwatch                          |
+|                 | Users who bought headphones liked it |
+|                 | [View on Amazon]                     |
+----------------------------------------------------------
+| 📦 Product Image | Bluetooth Speaker                   |
+|                 | Similar to items in your wishlist    |
+|                 | [View on Amazon]                     |
+----------------------------------------------------------
+
+[⬅️ Prev] [1] [2] [3] [➡️ Next]
+
