@@ -21,7 +21,21 @@ Minimalist Product recommendation system
 
 •	Tech stack :- Html , Css , js , py , Adob
 
-•	Execution plan :- Html , css , js , py , php
+•	Execution plan :- 
+
+Product-recommendation-system-/
+├── frontend/
+│   ├── index.html
+│   ├── style.css
+│   └── assets/
+├── backend/
+│   ├── app.py  # Flask or FastAPI
+│   ├── recommender.py
+│   └── data/
+├── README.md
+├── requirements.txt
+└── .gitignore
+
 
 •	Individual contributions :- 
 
