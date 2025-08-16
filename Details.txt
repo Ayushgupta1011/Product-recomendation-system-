@@ -1,0 +1,32 @@
+Team details
+
+Ayush Gupta :- 
+
+Team Head
+
+Frontend (Html , css)
+
+Backend ( js , python , XAMP )
+
+Vanshul :- 
+
+DATA BASED :- PHP 
+
+Libary used :- Pandad  , numpup , matpotib , sns , sklearn.metrics.pairwise , sklearn.feature_extraction.text
+
+API :- FLASK2.5
+
+
+Minimalist Product recommendation system 
+
+•	Tech stack :- Html , Css , js , py , Adob
+
+•	Execution plan :- Html , css , js , py , php
+
+•	Individual contributions :- 
+
+Ayush Gupta :- 
+
+Frontend (Html , css)
+
+Backend ( js , python , XAMP )
